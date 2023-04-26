@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 char s[100];
-
 int main(){
 	int n = 0,sum = 0;
 	scanf("%s", s);
