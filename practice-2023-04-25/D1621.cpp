@@ -1,7 +1,7 @@
 #include<stdio.h>
+
 int a[1234567], d[1234567];
 bool jumped[1234567];
-
 int main(){
 	int n, k, c;
 	scanf("%d%d%d", &n, &k, &c);
